@@ -53,9 +53,11 @@ This GitHub serves as a **technical portfolio** showcasing how I think, design, 
 
 <p align="left">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" />
+  <img src="https://www.clipartmax.com/png/middle/13-137348_logo-r-programming.png" width="40" />
+  <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="40" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" />
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" width="40" />
+  <img src="https://blog.paperspace.com/content/images/size/w1750/2021/01/0_szgpfwmBY_CuZwP8-2.png" width="40" />
 </p>
 
 ---
