@@ -58,6 +58,10 @@ This GitHub serves as a **technical portfolio** showcasing how I think, design, 
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" />
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40" />
   <img src="https://blog.paperspace.com/content/images/size/w1750/2021/01/0_szgpfwmBY_CuZwP8-2.png" width="40" />
+  <img src="https://cdn.dribbble.com/userupload/20360199/file/original-b2afc63104cafb1e099e694080aeb748.gif" width="40" />
+  <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo-768x432.png" width="40" />
+
+
 </p>
 
 ---
