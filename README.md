@@ -1,10 +1,11 @@
-<h1>Hi, I'm Vannessa! 
+# Hi, I’m Vannessa! 👋
 
-<h2>👩🏾‍💻 **Machine Learning Engineer | Big Data Analytics | Data Scientist **
+## 👩🏾‍💻 Machine Learning Engineer | Big Data Analytics | Data Scientist
 
 I build **mathematically grounded, production-ready machine learning systems**—from data ingestion and modeling to cloud deployment. My work emphasizes **statistical rigor, scalability, and clean engineering**.
 
 This GitHub serves as a **technical portfolio** showcasing how I think, design, and implement ML systems end-to-end.
+
 
 ---
 
